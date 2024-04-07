@@ -1,4 +1,4 @@
 # apnacollage-gitdemo
 this is demo git repo.
 <br>
-Author - Anshul Sharma
+Author - Anshul Sharma (apana collage)
